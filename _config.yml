@@ -85,10 +85,10 @@ author:
   bio              : "Researcher and developer at Tecgraf/PUC-Rio. PhD student at PUC-Rio. Has master's degree in computer science by PUC-Rio. Graduated from Universidad Nacional de San Agustin."
   location         : "Rio de Janeiro, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com.br/citations?user=5WJK29sAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jan_Hurtado_Jauregui"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "janhurtado"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://br.linkedin.com/in/jan-jose-hurtado-jauregui-72a556b9
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCpE6sY1tiCx1ututfWUdZhw"
   wikipedia        :
 
 
