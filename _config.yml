@@ -85,7 +85,7 @@ author:
   bio              : "Researcher and developer at Tecgraf/PUC-Rio. PhD student at PUC-Rio. Has master's degree in computer science by PUC-Rio. Graduated from Universidad Nacional de San Agustin."
   location         : "Rio de Janeiro, Brazil"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com.br/citations?user=5WJK29sAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jan_Hurtado_Jauregui"
