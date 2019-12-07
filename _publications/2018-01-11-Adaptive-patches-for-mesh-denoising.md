@@ -2,7 +2,7 @@
 title: "Adaptive patches for mesh denoising"
 collection: publications
 permalink: /publication/2018-01-11-Adaptive-patches-for-mesh-denoising
-excerpt: ''
+excerpt: ![](../images/patches.png)
 date: 2018-01-11
 venue: '2018 31st SIBGRAPI Conference on Graphics, Patterns and Images'
 paperurl: 'https://ieeexplore.ieee.org/document/8614304'
