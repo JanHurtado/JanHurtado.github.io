@@ -2,6 +2,7 @@
 title: "Floating Hamster Ball: A locomotion method for free flight in virtual environments"
 collection: publications
 permalink: /publication/hurtado2018floating
+excerpt: ''
 image: ../images/hurtado2018floating.png
 date: 2018-10-28
 venue: '2018 20th Symposium on Virtual and Augmented Reality'
