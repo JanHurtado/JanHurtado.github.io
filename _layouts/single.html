@@ -45,11 +45,12 @@ layout: default
         {% if page.collection == 'publications' and page.image %}
         <p><img src="{{ page.image }}" style="width:100%; height:auto; margin:0 auto;"  alt text="something to describe this image" ></img></p>
         {% endif %}
-             
+        <p>test</p>
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p>{{ page.citation }}</p>
+          <p> <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p>{{ page.citation }} </p>
         {% endif %}
     
         </header>
