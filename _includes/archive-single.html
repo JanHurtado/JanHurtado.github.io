@@ -51,39 +51,14 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-    {% if post.collection == 'publications' and post.image %}
-        <p><img src="{{ post.image }}" style="width:100%; height:auto; margin:0 auto;"  alt text="something to describe this image" ></img></p>
+    <p>Test 2</p>
     {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
+      <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
-    <p>
-    {% if post.paper%}
-    [post.paper]
-    {% endif %}
-    {% if post.slides%}
-    [post.slides]
-    {% endif %}
-    {% if post.talk%}
-    [post.talk]
-    {% endif %}
-    {% if post.video%}
-    [post.video]
-    {% endif %}
-    {% if post.code%}
-    [post.code]
-    {% endif %}
-    {% if post.bin%}
-    [post.bin]
-    {% endif %}
-    {% if post.supplementary%}
-    [post.supplementary]
-    {% endif %}
-    </p>
 
   </article>
 </div>

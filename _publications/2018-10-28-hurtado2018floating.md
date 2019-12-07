@@ -8,7 +8,7 @@ date: 2018-10-28
 venue: '2018 20th Symposium on Virtual and Augmented Reality'
 paperurl: 'https://ieeexplore.ieee.org/document/8802483'
 citation: 'Hurtado, J., Albuquerque, E., Radetic, D., Cherullo, R., Silva-Calpa, G. F. M., & Raposo, A. (2018, October). Floating Hamster Ball: A Locomotion Method for Free Flight in Virtual Environments. In 2018 20th Symposium on Virtual and Augmented Reality (SVR) (pp. 183-191). IEEE.'
-paper: http://janhurtado.github.io/files/hurtado2018floating.pdf
+paper: 'http://janhurtado.github.io/files/hurtado2018floating.pdf'
 slides: ''
 talk: ''
 video: ''

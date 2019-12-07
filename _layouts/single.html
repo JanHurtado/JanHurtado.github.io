@@ -61,25 +61,25 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         <p>
 		{% if page.paper%}
-		[page.paper]
+		[{{ page.paper }}]
 		{% endif %}
 		{% if page.slides%}
-		[page.slides]
+		[{{ page.slides }}]
 		{% endif %}
 		{% if page.talk%}
-		[page.talk]
+		[{{ page.talk }}]
 		{% endif %}
 		{% if page.video%}
-		[page.video]
+		[{{ page.video }}]
 		{% endif %}
 		{% if page.code%}
-		[page.code]
+		[{{ page.code }}]
 		{% endif %}
 		{% if page.bin%}
-		[page.bin]
+		[{{ page.bin }}]
 		{% endif %}
 		{% if page.supplementary%}
-		[page.supplementary]
+		[{{ page.supplementary }}]
 		{% endif %}
 		</p>
       </section>
