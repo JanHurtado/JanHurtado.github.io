@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/hurtado2018floating
 excerpt: ''
 image: ../images/hurtado2018floating.png
+smallimage: ../images/hurtado2018adaptive-small.png
 date: 2018-10-28
 venue: '2018 20th Symposium on Virtual and Augmented Reality'
 paperurl: 'https://ieeexplore.ieee.org/document/8802483'

@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/hurtado2018adaptive
 excerpt: ''
 image: ../images/hurtado2018adaptive.png
+smallimage: ../images/hurtado2018adaptive-small.png
 date: 2018-11-01
 venue: '2018 31st SIBGRAPI Conference on Graphics, Patterns and Images'
 paperurl: 'https://ieeexplore.ieee.org/document/8614304'
