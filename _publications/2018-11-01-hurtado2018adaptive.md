@@ -10,12 +10,12 @@ venue: '2018 31st SIBGRAPI Conference on Graphics, Patterns and Images'
 paperurl: 'https://ieeexplore.ieee.org/document/8614304'
 citation: 'Hurtado, J., Gattass, M., Raposo, A., & Coelho, J. (2018, October). Adaptive patches for mesh denoising. In 2018 31st SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) (pp. 1-8). IEEE.'
 paper: 'http://janhurtado.github.io/files/hurtado2018adaptive.pdf'
-slides: ''
-talk: ''
-video: ''
+slides: 'https://drive.google.com/file/d/1dVTaH-bDtHsMT8j0cLAi38bordCeJ3bP/view?usp=sharing'
+talk: 'https://youtu.be/6p6D2L9j2kw'
+video: 'https://youtu.be/e8DpA9s0QUU'
 code: ''
-bin: ''
-supplementary: ''
+bin: 'https://drive.google.com/file/d/1198aTmpCj49sQIUX2SP19R4ojAPHeF20/view?usp=sharing'
+supplementary: 'https://drive.google.com/drive/folders/1i7oLscN_NlEDHAR-bGV9W4DyTq-vOhsZ?usp=sharing'
 ---
 
 

@@ -9,13 +9,6 @@ date: 2019-01-01
 venue: 'European journal of radiology'
 paperurl: 'https://www.ejradiology.com/article/S0720-048X(18)30415-7/abstract'
 citation: 'Werner, H., Arcoverde, V., Ribeiro, G., Lopes, J., Jauregui, J. J. H., Raposo, A. B., & Júnior, E. A. (2019). An interactive experiment combining ultrasound, magnetic resonance imaging, and force feedback technology to physically feel the fetus during pregnancy. European journal of radiology, 110, 128-129.'
-paper: ''
-slides: ''
-talk: ''
-video: ''
-code: ''
-bin: ''
-supplementary: ''
 ---
 
 

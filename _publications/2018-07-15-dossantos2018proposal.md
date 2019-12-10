@@ -9,13 +9,6 @@ date: 2018-07-15
 venue: 'International Conference on Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-91397-1_40'
 citation: 'dos Santos, J. R. L., Werner, H., Raposo, A., Hurtado, J., Arcoverde, V., & Ribeiro, G. (2018, July). A proposal for combining Ultrasound, Magnetic Resonance Imaging and Force feedback technology, during the pregnancy, to physically feel the fetus. In International Conference on Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management (pp. 502-512). Springer, Cham.'
-paper: ''
-slides: ''
-talk: ''
-video: ''
-code: ''
-bin: ''
-supplementary: ''
 ---
 
 
